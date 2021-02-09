@@ -1,0 +1,1 @@
+tambah file ke 2 sekaligus merubah File tambah.txt
