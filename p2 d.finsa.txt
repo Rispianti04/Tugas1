@@ -1,0 +1,22 @@
+tag : start tag <a> end tag </a> ;elemen berbentuk tag <img src(merupakan atribut) ="img.png."/>;
+elemen (memilki atributnya masing masing)
+atribut
+ untuk
+<script src=""></script> untuk memanggil js external
+<script type=""></script> untuk js internal
+
+  link -> <a href="image.html"/>
+
+html 5 
+*perbedaan pada doctype : <!DOCTYPE html>
+tag html 5 (tulis !!)
+<article>  <datatemplate> ......
+
+
+ struktur html :
+html
+head         body 
+title
+meta
+ link
+script
